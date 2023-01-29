@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Gnere, Movie
+from .models import Genre, Movie
 
 
 class GenreAdmin(admin.ModelAdmin):
